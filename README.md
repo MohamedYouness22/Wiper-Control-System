@@ -2,6 +2,7 @@
 
 This is Model-Based-Design project implemented on Simulink.
 the project objective is to design a wiper control system 
+
 having 3 inputs:
 1-WiperMode: wiper mode of operation
   • 0: off
